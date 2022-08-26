@@ -1,0 +1,11 @@
+path: /content/drive/MyDrive/dataset
+train: images/train
+val: images/val
+
+nc: 4
+
+names:
+  0: person
+  1: car
+  2: tram
+  3: airplane
